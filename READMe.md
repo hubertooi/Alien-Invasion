@@ -8,7 +8,7 @@ I created an filepath.py which is not in the original source code because I want
 
 The high score.txt file stores the recorded high score and saves automatically. 
 
-Due to the reason I am using VS code, the filepath has to be mentioned in the python code for it to work.
+If you are not running the python default interpreter such as vs code or other text editor, please specify your file path in filepath.py.
 
 ### If you want to play this game.
 
